@@ -1,4 +1,9 @@
 This is my second commit
 Google Pittsburg
 She is really good at coding. Gotta code like her someday.
+<<<<<<< HEAD
 I am Soham
+=======
+I am from NITK
+I am HE
+>>>>>>> Commit on fcuk
